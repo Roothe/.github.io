@@ -6,6 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+<!Doctype html>
+
+<html>
+<head>
+<title>Bleak Babies</title>
+</head>
+<body>
+<h1>Description</h1>
+</body>
+
+</html>
+
 title: Bleak Babies
 description: > # this means to ignore newlines until "baseurl:"
   Website coming soon.
