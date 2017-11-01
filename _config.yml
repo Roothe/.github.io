@@ -6,6 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+# Build settings
 title: Bleak Babies
 description: > # this means to ignore newlines until "baseurl:"
   Website coming soon.
@@ -13,6 +14,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
-
+markdown: kramdown
 
 
