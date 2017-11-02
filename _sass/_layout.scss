@@ -4,8 +4,8 @@
 
 //refers to border of header - grey lines across top of screen
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 5px solid $grey-color-dark;
+    border-top: 5px solid teal;
+    border-bottom: 5px solid teal;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -24,7 +24,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: black;
     }
 }
 
