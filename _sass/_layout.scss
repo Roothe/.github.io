@@ -20,11 +20,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #8B008B;
+    color: #990073;
 
     &,
     &:visited {
-        color: black;
+        color: #66004d;
     }
 }
 
@@ -34,6 +34,7 @@
     padding-left: 20px;
     font-size: 26px;
     line-height: 56px;
+    color: #990073;
 
     .menu-icon {
         display: none;
