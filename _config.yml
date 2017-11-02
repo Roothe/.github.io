@@ -7,13 +7,13 @@
 
 # Site settings
 title: Work in Progress
-email: your-email@domain.com
+#email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Work in progress that should improve over time. .
+  Work in progress that should improve over time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://roothe.github.io/.github.io/" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  Roothe
+#twitter_username: 
+#github_username:  
 
 # Build settings
 markdown: kramdown
