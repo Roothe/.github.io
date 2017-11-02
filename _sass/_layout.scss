@@ -76,12 +76,12 @@
         }
 
         &:hover .trigger {
-            display: block;
+            display: inline-block;
             padding-bottom: 5px;
         }
 
         .page-link {
-            display: block;
+            display: inline-block;
             padding: 5px 10px;
 
             &:not(:last-child) {
