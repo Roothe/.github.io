@@ -88,6 +88,12 @@
 
         .page-link {
             padding: 5px 10px;
+            
+            
+            &,
+      &:visited {
+        color: $grey-color-dark;
+      }
 
             &:not(:last-child) {
                 margin-right: 0;
