@@ -10,8 +10,8 @@ title: Work in Progress
 #email: 
 description: > # this means to ignore newlines until "baseurl:"
   Work in progress that should improve over time.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://roothe.github.io/.github.io/" # the base hostname & protocol for your site
+baseurl: "/.github.io/" # the subpath of your site, e.g. /blog
+url: "https://roothe.github.io" # the base hostname & protocol for your site
 #twitter_username: 
 #github_username:  
 
