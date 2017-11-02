@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+
+//refers to border of header - grey lines across top of screen
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 5px solid $grey-color-dark;
@@ -239,4 +241,5 @@
             font-size: 18px;
         }
     }
+}
 }
