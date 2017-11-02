@@ -36,6 +36,11 @@
     line-height: 56px;
     color: #990073;
 
+    &,
+    &:visited {
+        color: #66004d;
+    }
+    
     .menu-icon {
         display: none;
     }
