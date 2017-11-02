@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 5px solid $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -37,7 +37,6 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
-        font-size: 126px;
         
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -73,7 +72,7 @@
             }
         }
 
-//refers to the about and posts menus
+
         .trigger {
             clear: both;
         }
@@ -84,7 +83,6 @@
 
         .page-link {
             padding: 5px 10px;
-            font-size: 126px;
             
             &:not(:last-child) {
                 margin-right: 0;
