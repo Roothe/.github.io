@@ -117,7 +117,7 @@
 .site-footer {
     border-top: 1px solid  #581845;
     padding: $spacing-unit 0;
-    background-color: #e3f6ff;
+    background-color: background-color: #e3f6ff;
 }
 
 .footer-heading {
@@ -191,6 +191,7 @@
 
 .page-heading {
     font-size: 26px;
+    
 }
 
 .post-list {
@@ -210,7 +211,7 @@
 .post-link {
     display: block;
     font-size: 24px;
-    color: #C70039;
+    
 }
 
 
@@ -224,6 +225,7 @@
 
 .post-title {
     font-size: 42px;
+    color: #C70039;
     letter-spacing: -1px;
     line-height: 1;
 
