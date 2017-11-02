@@ -4,9 +4,10 @@
 
 //refers to border of header - grey lines across top of screen
 .site-header {
-    border-top: 5px solid #0000FF;
-    border-bottom: 5px solid #0000FF;
+    border-top: 5px solid  #581845;
+    border-bottom: 5px solid  #581845;
     min-height: 56px;
+    background-color: #fab4dd;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -20,11 +21,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #990073;
+    color: #C70039;
 
     &,
     &:visited {
-        color: #66004d;
+        color: #900C3F;
     }
 }
 
@@ -34,11 +35,11 @@
     padding-left: 20px;
     font-size: 26px;
     line-height: 56px;
-    color: #990073;
+    color:  #C70039;
 
     &,
     &:visited {
-        color: #66004d;
+        color:  #900C3F;
     }
     
     .menu-icon {
@@ -46,12 +47,12 @@
     }
 
     .page-link {
-        color: #990073;
+        color:  #C70039;
         line-height: $base-line-height;
         
         &,
     &:visited {
-        color: #66004d;
+        color:  #900C3F;
     }
     
         // Gaps between nav items, but not on the last one
@@ -114,7 +115,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid  #581845;
     padding: $spacing-unit 0;
 }
 
@@ -234,6 +235,7 @@
 
     h2 {
         font-size: 32px;
+        color: #C70039;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -242,6 +244,7 @@
 
     h3 {
         font-size: 26px;
+        color: #900C3F;
 
         @include media-query($on-laptop) {
             font-size: 22px;
