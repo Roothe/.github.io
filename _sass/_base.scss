@@ -162,8 +162,8 @@ pre {
     margin-left: auto;
  //   padding-right: $spacing-unit;
  //   padding-left: $spacing-unit;
-    padding-right: $spacing-unit - 60;
-    padding-left: $spacing-unit - 60;
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
