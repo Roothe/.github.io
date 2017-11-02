@@ -4,8 +4,8 @@
 
 //refers to border of header - grey lines across top of screen
 .site-header {
-    border-top: 5px solid teal;
-    border-bottom: 5px solid teal;
+    border-top: 5px solid #0000FF;
+    border-bottom: 5px solid #0000FF;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -20,7 +20,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    
+    color: #8B008B;
 
     &,
     &:visited {
