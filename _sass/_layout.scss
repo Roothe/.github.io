@@ -20,8 +20,6 @@
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    text-align: center;
-    float: center;
     color: #C70039;
 
     &,
@@ -31,7 +29,7 @@
 }
 
 #toptitle {
-  text-align: center;
+  text-align: center !important;
 }
 
 //changes style of page menus in header but not main title
