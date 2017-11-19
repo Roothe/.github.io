@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clothing
+<!-- title: Clothing -->
 <!-- permalink: /clothing/ -->
 ---
 
